@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/xtodorovic/ambulance-webapi.git/api"
-	"github.com/xtodorovic/ambulance-webapi/internal/ambulance_wl"
+	"github.com/xtodorovic/ambulance-webapi.git/internal/ambulance_wl"
 )
 
 func main() {
