@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/xtodorovic/ambulance-webapi.git/api"
-	"github.com/xtodorovic/ambulance-webapi.git/internal/ambulance_wl"
-	"github.com/xtodorovic/ambulance-webapi.git/internal/db_service"
+	"github.com/xtodorovic/ambulance-webapi/api"
+	"github.com/xtodorovic/ambulance-webapi/internal/ambulance_wl"
+	"github.com/xtodorovic/ambulance-webapi/internal/db_service"
     "context"
     "time"
     "github.com/gin-contrib/cors"
